@@ -123,7 +123,7 @@ class M_Admin extends CI_Model
  
 	public function buat_kode($table_name,$kodeawal,$idkode,$orderbylimit)
   {
-      $query = $this->db->query("select * from $table_name $orderbylimit"); // cek dulu apakah ada sudah ada kode di tabel.
+      $query = $this->db->query("select * from $table_name $orderbylimit"); 
       
 		  if($query->num_rows() > 0){
         //jika kode ternyata sudah ada.
