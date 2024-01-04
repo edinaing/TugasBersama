@@ -47,7 +47,7 @@
 <div class="login-box">
 	<br/>
   <div class="login-logo">
-    <a href="index.php" style="color: white;">Sistem Informasi <br/><b>Perpustakaan</b></a>
+    <a href="index.php" style="color: yellow;">Sistem Informasi <br/><b>Perpustakaan</b></a>
   </div>
   <div id="tampilalert"></div>
   <!-- /.login-logo -->
