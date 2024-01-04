@@ -51,7 +51,7 @@
 				<?php if($this->uri->uri_string() == 'data/bukudetail/'.$this->uri->segment('3')){ echo 'active';}?>
 				<?php if($this->uri->uri_string() == 'data/bukuedit/'.$this->uri->segment('3')){ echo 'active';}?>">
                 <a href="#">
-                    <i class="fa fa-pencil-square"></i>
+                    <i class="fa fa-layer-group"></i>
                     <span>Data </span>
                     <span class="pull-right-container">
                     <i class="fa fa-angle-left pull-right"></i>
