@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label>Tanggal Lahir</label>
-                                    <input type="date" class="form-control" name="tgl_lahir" required="required" placeholder="Contoh : 1999-05-18">
+                                    <input type="date" class="form-control" name="tgl_lahir" required="required" placeholder="Contoh : 01 - 01 -2001">
                                 </div>
                                 <div class="form-group">
                                     <label>Username</label>
