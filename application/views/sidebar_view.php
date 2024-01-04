@@ -35,7 +35,7 @@
             <li class="header">MAIN NAVIGATION</li>
             <li class="<?php if($this->uri->uri_string() == 'dashboard'){ echo 'active';}?>">
                 <a href="<?php echo base_url('dashboard');?>">
-                    <i class="fa fa-dashboard"></i> <span>Dashboard</span>
+                    <i class="fa fa-home"></i> <span>Dashboard</span>
                 </a>
             </li>
             <li class="<?php if($this->uri->uri_string() == 'user'){ echo 'active';}?>
